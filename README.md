@@ -27,17 +27,18 @@ My initial vision is to use barcodes, brands and titels to distinguish products 
 Ethical wiki section:
 This would ideally be a layout that would give people the rundown on the most important factors about the origin and effect of a particular product.
 For example, where applicalble, things like:
-+health concerns
-+Use of ethical labour
-+Environmental concerns
-+political bias
-+Ingredients
-+Legal Terms of service agreements
-+Growing regon
-+Pollutants
-+Privacy
-+Security
-+and so on...
+*health concerns
+*Use of ethical labour
+*Environmental concerns
+*political bias
+*Ingredients
+*Legal Terms of service agreements
+*Growing regon
+*Pollutants
+*Privacy
+*Security
+*Affiliation to companies of controversy
+*and so on...
 
 This information would be filled in by users and wpuld be sorted or ranked by the interction of others users.
 There are some places on the web that do a better at group moderation than others.
